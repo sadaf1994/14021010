@@ -1,0 +1,18 @@
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+*******************
+<i class="fa-solid fa-house-chimney"></i>
+<i class="fa-solid fa-music"></i>
+<i class="fa-solid fa-cart-shopping"></i>
+<i class="fa-solid fa-magnifying-glass"></i>
+<i class="fa-solid fa-phone"></i>
+******************************
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat&family=Cormorant+Garamond:ital,wght@1,300&family=Kalam:wght@300&family=Lemon&family=Lobster&family=Shadows+Into+Light&display=swap" rel="stylesheet">
+**************************
+font-family: 'Caveat', cursive;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Kalam', cursive;
+font-family: 'Lemon', serif;
+font-family: 'Lobster', sans-serif;
+font-family: 'Shadows Into Light', cursive;
